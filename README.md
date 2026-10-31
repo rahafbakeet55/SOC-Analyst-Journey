@@ -1,4 +1,3 @@
-# SOC-Analyst-Journey
 SOC-Analyst-Journey/
 │
 ├── README.md
@@ -11,11 +10,7 @@ SOC-Analyst-Journey/
 │   └── Systems-as-Attack-Vectors.md
 │
 ├── 02-SOC-Team-Internals/
-│
 ├── 03-Security-Monitoring/
-│
 ├── 04-SIEM/
-│
 ├── 05-Incident-Response/
-│
 └── 06-Threat-Intelligence/
