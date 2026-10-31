@@ -45,6 +45,21 @@ Continue with SOC Team Internals and develop a deeper understanding of SOC workf
 
 ## Learning Source
 
+---
+
+## TryHackMe Achievements
+
+### First Step into SOC
+
+![First Step into SOC](screenshots/first-step-into-soc.png)
+
+**Achievement:** First Step into SOC
+
+**Platform:** TryHackMe
+
+**Earned:** October 31, 2026
+
+[View Official Badge](https://tryhackme.com/Rahafalsulami/badges/first-step-into-soc)
 - [TryHackMe – SOC Level 1](https://tryhackme.com/path/outline/soclevel1)
 
 ---
