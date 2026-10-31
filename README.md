@@ -1,3 +1,4 @@
+```text
 SOC-Analyst-Journey/
 │
 ├── README.md
@@ -14,3 +15,4 @@ SOC-Analyst-Journey/
 ├── 04-SIEM/
 ├── 05-Incident-Response/
 └── 06-Threat-Intelligence/
+```
